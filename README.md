@@ -14,14 +14,7 @@
 - ✉️ E-mail: **mf.nmap@gmail.com**
 - 💬 LinkedIn: [linkedin.com/in/seulink](https://www.linkedin.com/in/marcos-franceschi-a46a5329b/)
 - 📺 YouTube: [youtube.com/@seudocanal](https://www.youtube.com/@acessoaoroot)
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosfranceschi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfranceschi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+- 📸 Instagram: [instagram.com/seuusuario](https://www.instagram.com/macoffroot/)
 
 ---
 
