@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">🔐 Marcos Franceschi</h1>
+<h3 align="center">Segurança Da Informação</h3>
 
-<!--
-**acessoaoroot/acessoaoroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
+- 💼 **Analista de Redes e Pentester**
+- 🧠 Focado em **CyberSecurity, Hardening, e Análise de Vulnerabilidades**
+- 🔍 Apaixonado por **testes de intrusão e automação de segurança**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contato
+- ✉️ E-mail: **mf.nmap@gmail.com**
+- 💬 LinkedIn: [linkedin.com/in/seulink](https://www.linkedin.com/in/marcos-franceschi-a46a5329b/)
+- 📺 YouTube: [youtube.com/@seudocanal](https://www.youtube.com/@acessoaoroot)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosfranceschi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfranceschi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🧠 Tech Stack
+💻 **Red Team & Network Tools**
+
